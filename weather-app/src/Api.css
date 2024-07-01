@@ -1,0 +1,47 @@
+.back{
+  width: 100%;
+  position: relative;
+
+  
+
+}
+.child{
+    margin-left: 249px;
+        margin: auto;
+        width: 50%;
+        border: 3px solid green;
+        padding: 10px;
+        left: 100px;
+    top: 10%;
+    position: absolute;
+}
+.search{
+  border: 2px solid black;
+  height: 40px;
+  width: 180px ;
+  
+}
+.button{
+  padding: 10px;
+  position: absolute;
+  width: 42px;
+}
+.white{
+  background-color: whitesmoke;
+}
+.icon{
+
+    position: absolute;
+    margin-top: 54px;
+    width: 157px;
+    height: 150px;
+
+}
+
+.icon2{
+  position: absolute;
+  width: 110px;
+  margin-top: 91px;
+  margin-left: 167px;
+  height: 105px;
+}
